@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+}
+.divo{
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+    background-color: bisque;
+    margin: 50px;
+}
+#run:hover{
+    height: 200px;
+    width: 200px;
+}
